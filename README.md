@@ -1,27 +1,25 @@
 <h1 align="center">Hi 👋, I'm Vinayak Garudi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- ▶︎ Demonstraion of Project [Notekeeper](https://www.youtube.com/watch?v=-CXSd5TB-a4)
+- ▶︎ Demonstraion of Project [Notekeeper](https://www.youtube.com/watch?v=RGHbFpAYzhc)
 
 - 💬 Discription 
 <p>Notekeeper is a web-based application that allows users to easily create, manage, and organize their notes. With a user-friendly interface and powerful features, Notekeeper is the perfect tool for anyone looking to stay organized and on top of their tasks.</p>
 <p>With Notekeeper, you can:</p>
-<ul>
+
     
-    <li>Sign up and log in to access your notes</li>
-    <li>Add new notes with tags, titles, and descriptions</li>
-    <li>Update and delete existing notes
-    </li>
-    <li>View all of your notes in one place
-    </li>
-</ul>
+   <p> Sign up and log in to access your notes</p>
+    <p>Add new notes with tags, titles, and descriptions</p>
+  <p>Update and delete existing notes</p>
+     <p>View all of your notes in one place</p>
+ 
 
 - 📫 How to reach me **vinayakgarudi45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinayak-garudi-b13792211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinayak-garudi-b13792211/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/watch?v=-CXSd5TB-a4"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/watch?v=-CXSd5TB-a4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinayak-garudi-b13792211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinayak-garudi-b13792211/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/watch?v=RGHbFpAYzhc"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/watch?v=RGHbFpAYzhc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools Used:</h3>
